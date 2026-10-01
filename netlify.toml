@@ -1,7 +1,3 @@
 [build]
-<<<<<<< HEAD
-  publish = "dist"
-=======
->>>>>>> bab9a652338fd085c073d9674df6f3ce287bd189
   command = "npm run build"
   publish = "dist"
